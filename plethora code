@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+
+
+    <meta charset="utf-8">
+    <title>Plethora</title>
+
+
+
+
+
+
+  </head>
+  <body>
+
+<h1 style=color: red>Plethora</h1>
+
+<main>
+  <p><strong>Access   all      your      entertainment      media     platforms     through   a   push   of   a   button</strong></p>
+  <img src="https://images.pexels.com/photos/458379/pexels-photo-458379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="girl in movie theatre."></img>
+  <img src="https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"</img>
+  <img src="https://images.pexels.com/photos/3618362/pexels-photo-3618362.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"</img>
+  <img src="https://images.pexels.com/photos/4545956/pexels-photo-4545956.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></img>
+  <img src="https://images.pexels.com/photos/1682519/pexels-photo-1682519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></img>
+  <img src="https://images.pexels.com/photos/4009036/pexels-photo-4009036.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></img>
+  <br>
+<a href="https://www.netflix.com/"><strong>Movies and Tv</strong></a>
+<a href="https://www.spotify.com/us/"><strong>Music</strong></a>
+
+
+</main>
+
+
+  </body>
+
+</html>
